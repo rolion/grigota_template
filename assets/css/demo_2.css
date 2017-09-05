@@ -99,13 +99,26 @@
         background-color: white;
     } 
 }
+.blurred-container img{
+        width: 100%;
+}
 @media (min-width: 992px) { 
     #actividades  {
         background-image: url("../img/actividades.png");
+        background-size: 100% auto;
     } 
     #directorio{
         background-image: url("../img/directorio.png");
     }
+}
+
+.taggd__wrapper{
+    background: #d91b5c;
+}
+.taggd__popup{
+    font-weight: bold;
+    color: #d91b5c;
+    background-color: #cfc9c9;
 }
 #actividades, #directorio  {
     color:#d91b5c;
