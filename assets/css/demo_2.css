@@ -111,7 +111,9 @@
         background-image: url("../img/directorio.png");
     }
 }
-
+#img-directory{
+    width: 100%;
+}
 .taggd__wrapper{
     background: #d91b5c;
 }

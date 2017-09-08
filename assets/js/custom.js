@@ -19,7 +19,7 @@ $(document).ready(function(){
       "x": 0.23535,
       "y": 0.4137
     },
-    "text": "Vanessa Cuellar"
+    "text": "Cmte de Protocolo Vanessa Cuellar"
   }),
   
   Taggd.Tag.createFromObject({
@@ -27,7 +27,7 @@ $(document).ready(function(){
       "x": 0.34277,
       "y": 0.42533
     },
-    "text": "Zoraida Vaca"
+    "text": "Cmte Servicio Internacional Zoraida Vaca"
   }),
   
   Taggd.Tag.createFromObject({
@@ -35,7 +35,7 @@ $(document).ready(function(){
       "x": 0.50293,
       "y": 0.41079
     },
-    "text": "Kendal Plaza"
+    "text": "Presidente Kendal Plaza"
   }),
   
   Taggd.Tag.createFromObject({
@@ -43,7 +43,7 @@ $(document).ready(function(){
       "x": 0.63184,
       "y": 0.42823
     },
-    "text": "Carla Muñoz"
+    "text": "Secretaria Carla Muñoz"
   }),
   
   Taggd.Tag.createFromObject({
@@ -51,7 +51,7 @@ $(document).ready(function(){
       "x": 0.77051,
       "y": 0.43696
     },
-    "text": "Daybela Condori"
+    "text": "Cmte Servicio a la Comunida Daybela Condori"
   }),
   
   Taggd.Tag.createFromObject({
@@ -59,7 +59,7 @@ $(document).ready(function(){
       "x": 0.27441,
       "y": 0.24219
     },
-    "text": "Miguel Torrico"
+    "text": "Cmte Desarrollo Profecional Miguel Torrico"
   }),
   
   Taggd.Tag.createFromObject({
@@ -67,7 +67,7 @@ $(document).ready(function(){
       "x": 0.41895,
       "y": 0.23347
     },
-    "text": "Alfredo Llanos"
+    "text": "Vicepresidente Alfredo Llanos"
   }),
   
   Taggd.Tag.createFromObject({
@@ -75,7 +75,7 @@ $(document).ready(function(){
       "x": 0.55176,
       "y": 0.22765
     },
-    "text": "Hugo Lopez"
+    "text": "Tesorero Hugo Lopez"
   }),
   
   Taggd.Tag.createFromObject({
@@ -83,7 +83,7 @@ $(document).ready(function(){
       "x": 0.68652,
       "y": 0.27998
     },
-    "text": "Jose Polar"
+    "text": "Macero Jose Polar"
   })
 	];
 
